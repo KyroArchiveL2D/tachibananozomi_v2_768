@@ -21,7 +21,7 @@
     "resolution": "2k",
     "startAnimation": "Start_Idle_01",
     "startScene": true,
-    "language": "English"
+    "language": "Bahasa Indonesia"
   },
   "EventInfos": [
     {
@@ -75,7 +75,7 @@
       "Audio/CH0243_MemorialLobby_5_1": "先生は機関士の免許ないし。",
       "Audio/CH0243_MemorialLobby_5_2": "いくらなんでも流石に素人に触らせないよ。"
     },
-    "English": {
+    "Bahasa Indonesia": {
       "Audio/CH0243_MemorialLobby_1_1": "Gimana pemandangannya dari ruang masinis?",
       "Audio/CH0243_MemorialLobby_1_2": "Jam segini tuh view-nya cakep banget.",
       "Audio/CH0243_MemorialLobby_1_3": "Aku tuh suka banget... waktu sunset.",
